@@ -1,7 +1,6 @@
 # convert application
 
-This is an application which provide charts based on information from sources. The goal is to provide charts.
-We use the following frameworks: java, sql, spring framework, spring boot, spring jpa, hibernate, primefaces and MySQL as database. 
+This is an application which act as a converter.
 
 ## Summary
 * Getting Started
